@@ -1,7 +1,7 @@
 # c-assignment
 1.QUESTION
 
-Write a C program to find the maximum of three numbers without using logical operators.
+Write a C program to find the maximum of three numbers without using logical operators.  
 
 CODE:
 ```
@@ -19,13 +19,13 @@ int main() {
     return 0;
 }
 ```
-OUTPUT:
+OUTPUT:  
 
-Enter three numbers: 10 25 15
-Maximum number is: 25
-2.QUESTION
+Enter three numbers: 10 25 15  
+Maximum number is: 25  
+2.QUESTION  
 
-Write a C program to check whether the given year is leap year or not by adding century leap year or non-century leap year in the output (Eg: 2000 is a century leap year, 2024 is a non-century leap year)
+Write a C program to check whether the given year is leap year or not by adding century leap year or non-century leap year in the output (Eg: 2000 is a century leap year, 2024 is a non-century leap year)  
 
 CODE:
 ```
@@ -49,13 +49,13 @@ int main() {
     return 0;
 }
 ```
-OUTPUT:
+OUTPUT:  
 
-Enter a year: 2024
-2024 is a non-century leap year
-3.QUESTION
+Enter a year: 2024  
+2024 is a non-century leap year  
+3.QUESTION  
 
-Write a C program to find whether the entered character is alphabet / digit / special character. If the entered character is an alphabet then say it is vowel or consonant without using built in functions.
+Write a C program to find whether the entered character is alphabet / digit / special character. If the entered character is an alphabet then say it is vowel or consonant without using built in functions.  
 
 CODE:
 ```
@@ -82,12 +82,12 @@ int main() {
     return 0;
 }
 ```
-OUTPUT:
+OUTPUT:  
 
-Enter a character: a
-It is an alphabet
-It is a vowel
-4.QUESTION
+Enter a character: a  
+It is an alphabet  
+It is a vowel  
+4.QUESTION  
 
 Write a C program for simple ATM simulation with operations Check Balance, Deposit, Withdraw, Exit using switch and update balance accordingly.
 
@@ -131,25 +131,25 @@ int main() {
     return 0;
 }
 ```
-OUTPUT:
+OUTPUT:  
 
-1. Check Balance
-2. Deposit
-3. Withdraw
-4. Exit
-Enter your choice: 2
-Enter amount to deposit: 500
-Updated Balance: 1500.00
+1. Check Balance  
+2. Deposit  
+3. Withdraw  
+4. Exit  
+Enter your choice: 2  
+Enter amount to deposit: 500  
+Updated Balance: 1500.00  
 
-1. Check Balance
-2. Deposit
-3. Withdraw
-4. Exit
-Enter your choice: 4
-Thank you!
-5.QUESTION
+1. Check Balance  
+2. Deposit  
+3. Withdraw  
+4. Exit  
+Enter your choice: 4  
+Thank you!  
+5.QUESTION  
 
-Write a C program for menu driven calculator using [switch statement]
+Write a C program for menu driven calculator using [switch statement]  
 
 CODE:
 ```
@@ -186,11 +186,11 @@ int main() {
 ```
 OUTPUT:
 
-Enter two numbers: 10 5
+Enter two numbers: 10 5  
 
-1. Addition
-2. Subtraction
-3. Multiplication
-4. Division
-Enter your choice: 1
-Result = 15.00
+1. Addition  
+2. Subtraction  
+3. Multiplication  
+4. Division  
+Enter your choice: 1  
+Result = 15.00  
